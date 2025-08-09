@@ -39,3 +39,19 @@
 
 # debug information files
 *.dwo
+
+# C++
+*.out
+*.o
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
